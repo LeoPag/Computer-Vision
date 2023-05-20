@@ -1,3 +1,3 @@
 # ETH-Computer-Vision
 
-![Alt Text](https://github.com/LeoPag/Computer-Vision/Images/image1)
+![Alt Text](Images/image1.png)
