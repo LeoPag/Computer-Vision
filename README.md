@@ -1,4 +1,4 @@
-# ETH-Computer-Vision
+# Computer-Vision
 
 
 ## Assignment 1
