@@ -15,3 +15,6 @@ In the first task of the assignment, we implement the simple Ransac algorithm fo
 
 ## Assignment 5
 In the first task of the assignment, we implement a Bag-of-Word binary classifier, whose features are computed with the HoG descriptor. In the second task, we perform a multi-class image classification task on CIFAR-10 dataset by training a simple VGG network.
+
+## Assignment 6
+The task consists in implementing a sampling consensation tracking algorithm based on color histograms, under the assumption of no motion and of constant velocity motion. Furthermore, we conduct a detailed analyis on the effect of each modelling hyperparameter.
