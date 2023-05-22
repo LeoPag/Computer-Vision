@@ -21,7 +21,7 @@ This repo contains the projects for the Computer Vision course at ETH Zurich. Th
       This assignment is split into two parts. In the first one, we are asked to manually implement the Mean Shift unsupervised learning algorithm for image segmentation. In the second one, the goal was to built from scratch the SegNet architecture, both the encoder and the decoder structure.
     </td>
     <td>
-      <img src="Images/image2.png" alt="Image" width="50%"> <img src="Images/image3.png" alt="Image" width="50%">
+      <img src="Images/image2.png" alt="Image" width="50%"> <img src="Images/image3.png" alt="Image" width="100%">
     </td>
   </tr>
 </table>
