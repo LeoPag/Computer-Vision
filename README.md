@@ -58,7 +58,29 @@ This repo contains the projects for the Computer Vision course at ETH Zurich. Th
 </table>
 
 ## Assignment 5
-In the first task of the assignment, we implement a Bag-of-Word binary classifier, whose features are computed with the HoG descriptor. In the second task, we perform a multi-class image classification task on CIFAR-10 dataset by training a simple VGG network.
+<table>
+  <tr>
+    <td>
+      In the first task of the assignment, we implement a Bag-of-Word binary classifier, whose features are computed with the HoG descriptor. In the second task, we perform a multi-class image classification task on CIFAR-10 dataset by training a simple VGG network.
+   </td>
+    <td>
+      <p align="left">
+        <img src="Images/image7.webp" alt="Image" width="1500">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Assignment 6
-The task consists in implementing a sampling consensation tracking algorithm based on color histograms, under the assumption of no motion and of constant velocity motion. Furthermore, we conduct a detailed analyis on the effect of each modelling hyperparameter.
+<table>
+  <tr>
+    <td>
+      The task consists in implementing a sampling consensation tracking algorithm based on color histograms, under the assumption of no motion and of constant velocity motion. Furthermore, we conduct a detailed analyis on the effect of each modelling hyperparameter.
+   </td>
+    <td>
+      <p align="left">
+        <img src="Images/image8.png" alt="Image" width="100%">
+      </p>
+    </td>
+  </tr>
+</table>
