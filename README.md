@@ -1,4 +1,4 @@
-# Computer-Vision
+# Computer Vision
 This repo contains the projects for the Computer Vision course at ETH Zurich. These projects assess a broad range of Computer Vision tasks: Image Classification, Image Segmentation, Camera Calibration, Structure From Motion, Multi-View-Stereo, Tracking. 
 
 ## Assignment 1
