@@ -44,7 +44,16 @@ This repo contains the projects for the Computer Vision course at ETH Zurich. Th
 </table>
 
 ## Assignment 4
-In the first task of the assignment, we implement the simple Ransac algorithm for model fitting (a 2D line). In the second task, we implement the  [PatchmatchNet](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf), a novel and learnable cas- cade formulation of Patchmatch for high-resolution multi-view stereo.
+<table>
+  <tr>
+    <td>
+      In the first task of the assignment, we implement the simple Ransac algorithm for model fitting (a 2D line). In the second task, we implement the  [PatchmatchNet](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf), a novel and learnable cascade formulation of Patchmatch for high-resolution multi-view stereo.
+   </td>
+    <td>
+      <img src="Images/image11" alt="Image" width="1500"> <img src="Images/image5.png" alt="Image" width="1500">
+    </td>
+  </tr>
+</table>
 
 ## Assignment 5
 In the first task of the assignment, we implement a Bag-of-Word binary classifier, whose features are computed with the HoG descriptor. In the second task, we perform a multi-class image classification task on CIFAR-10 dataset by training a simple VGG network.
