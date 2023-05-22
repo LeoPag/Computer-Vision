@@ -51,7 +51,7 @@ This repo contains the projects for the Computer Vision course at ETH Zurich. Th
    </td>
     <td>
       <p align="left">
-        <img src="Images/image11" alt="Image" width="50%"> <img src="Images/image5.png" alt="Image" width="50">
+        <img src="Images/image11" alt="Image" width="50%"> <img src="Images/image5.png" alt="Image" width="50%">
       </p>
     </td>
   </tr>
