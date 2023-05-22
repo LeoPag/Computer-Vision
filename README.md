@@ -38,7 +38,7 @@ This repo contains the projects for the Computer Vision course at ETH Zurich. Th
       Assignement 3 tests the understanding of the principles of Camera Calibration and of the Strcture From Motion range imaging technique. In the first task, we first estimate the projection matrix P, with the Gold-Standard Algorithm. Then, using QR decomposition, we can obtain the intrinsic parameters of the calibration matrix and the extrinsic parameters: rotation matrix and translation vector. The second task consists in the development of a simple SFM algorithm, where we are asked to estimate successive camera poses with the triangulation technique.
    </td>
     <td>
-      <img src="Images/image4.png" alt="Image" width="100%">
+      <img src="Images/image4.png" alt="Image" width="300%">
     </td>
   </tr>
 </table>
